@@ -98,6 +98,8 @@ Through this project, I learned:
 
 ## 👩‍💻 Author
 
-**Tanishka Saraswat**  
-B.Tech - Artificial Intelligence and Machine Learning  
+**Tanishka Saraswat**    
+
 GitHub: [@tanishkasaraswat23](https://github.com/tanishkasaraswat23)
+
+LinkedIn:www.linkedin.com/in/ tanishka-saraswat
